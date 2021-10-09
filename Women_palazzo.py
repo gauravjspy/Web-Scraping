@@ -1121,31 +1121,3 @@ def getSrcapdata_24(url):
 
 getSrcapdata_24('https://www.flipkart.com/palazzos/pr?sid=clo%2Ccfv%2Cmn6&otracker%5B%5D=categorytree&otracker%5B%5D=nmenu_sub_Women_0_Palazzos&page=25')
 print("Page 25 Completed")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
